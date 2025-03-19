@@ -22,6 +22,7 @@ public class HelloTwo {
 
 
     {
+
         System.out.println("i am in instance block");
     }
 
