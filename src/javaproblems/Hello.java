@@ -1,4 +1,4 @@
-package java;
+package javaproblems;
 
 public class Hello {
 
